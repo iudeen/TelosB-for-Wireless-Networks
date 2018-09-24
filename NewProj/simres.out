@@ -1,0 +1,26 @@
+Booting  24  at time  133559000240
+Starting simulation.
+DEBUG (24): Telos B Boot at: @ 0:0:13.355900024 
+DEBUG (24): Periodic Timer 1 fired @ 0:0:15.355900034. (Periodic Timer Fires at 2 sec from boot)
+DEBUG (24): LED 0 Toggle 
+DEBUG (24): LED 1 Toggle 
+DEBUG (24): Periodic Timer 1 fired @ 0:0:17.355900034. (Periodic Timer Fires again)
+DEBUG (24): LED 0 Toggle 
+DEBUG (24): LED 1 Toggle 
+DEBUG (24): One shot Timer 0 fired @ 0:0:18.355900034  (OneShot Timer fires at 5 sec from Boot)
+DEBUG (24): Led2 Toggle 
+DEBUG (24): Periodic Timer 1 fired @ 0:0:19.355900034.
+DEBUG (24): LED 0 Toggle 
+DEBUG (24): LED 1 Toggle 
+DEBUG (24): One shot Timer 0 fired @ 0:0:20.355900034  (OneShot Timer fires at 7 sec from Boot)
+DEBUG (24): Led2 Toggle 
+DEBUG (24): Periodic Timer 1 fired @ 0:0:21.355900034.
+DEBUG (24): LED 0 Toggle 
+DEBUG (24): LED 1 Toggle 
+DEBUG (24): One shot Timer 0 fired @ 0:0:22.355900034  (OneShot Timer fires at 9 sec from Boot)
+DEBUG (24): Led2 Toggle 
+DEBUG (24): Periodic Timer 1 fired @ 0:0:23.355900034.
+DEBUG (24): Timer1 Stops                               (Periodic Timer stops after running for 10 sec)
+DEBUG (24): LED 0 Toggle 
+DEBUG (24): LED 1 Toggle 
+Completed simulation.
