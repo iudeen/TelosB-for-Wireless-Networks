@@ -1,0 +1,2 @@
+COMPONENT = SendToRadioAppC
+include $(MAKERULES)

@@ -1,0 +1,21 @@
+Booting  0  at time  62790482420
+Booting  1  at time  54006248717
+Booting  2  at time  61144016941
+Booting  3  at time  96434406454
+Booting  4  at time  59316278211
+Starting simulation.
+DEBUG (1): SendToRadioC$TimerPeriodic$fired 1 have sent packet 1
+DEBUG (4): SendToRadioC$TimerPeriodic$fired 4 have sent packet 1
+DEBUG (2): SendToRadioC$TimerPeriodic$fired 2 have sent packet 1
+DEBUG (0): SendToRadioC$TimerPeriodic$fired 0 have sent packet 1
+DEBUG (1): SendToRadioC$TimerPeriodic$fired 1 have sent packet 2
+DEBUG (4): SendToRadioC$TimerPeriodic$fired 4 have sent packet 2
+DEBUG (2): SendToRadioC$TimerPeriodic$fired 2 have sent packet 2
+DEBUG (0): SendToRadioC$TimerPeriodic$fired 0 have sent packet 2
+DEBUG (1): SendToRadioC$TimerPeriodic$fired 1 have sent packet 3
+DEBUG (4): SendToRadioC$TimerPeriodic$fired 4 have sent packet 3
+DEBUG (2): SendToRadioC$TimerPeriodic$fired 2 have sent packet 3
+DEBUG (0): SendToRadioC$TimerPeriodic$fired 0 have sent packet 3
+DEBUG (1): SendToRadioC$TimerPeriodic$fired 1 have sent packet 4
+DEBUG (4): SendToRadioC$TimerPeriodic$fired 4 have sent packet 4
+Completed simulation.
